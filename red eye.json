@@ -1,7 +1,7 @@
 {
-  "name": "red neko",
-  "description": "NSFW",
-  "version": "1.0",
+  "name": "red eye",
+  "description": "nsfw",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "slick",
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/849743303590936609/1032518301324156948/downloadedMediaTmpFile.png",
+    "url": "https://cdn.discordapp.com/attachments/849743303590936609/1032966818375139339/ThemeImage.jpg",
     "alpha": 1.0
   }
 }
